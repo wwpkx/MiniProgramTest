@@ -1,0 +1,14 @@
+.bg_black {
+  height: 200rpx;
+  background: black;
+}
+
+.bg_red {
+  height: 200rpx;
+  background: lightpink;
+}
+
+.bg_green {
+  height: 200rpx;
+  background: green;
+}

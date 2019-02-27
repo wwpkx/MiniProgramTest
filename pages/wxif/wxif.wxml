@@ -1,0 +1,11 @@
+<button bindtap="EventHandle">按钮</button>
+<view wx:if="{{color==1}}">
+  <view class="bg_black"></view>
+</view>
+<view wx:elif="{{color==2}}">
+  <view class="bg_red"></view>
+</view>
+<view wx:else>
+  <view class="bg_green"></view>
+</view>
+
