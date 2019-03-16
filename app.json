@@ -4,8 +4,8 @@
     "pages/button/button",
     "pages/wxif/wxif",
     "pages/index/index",
-    "pages/logs/logs"
-    
+    "pages/logs/logs",
+    "pages/wxkey/wxkey"
   ],
   "window": {
     "backgroundTextStyle": "light",
